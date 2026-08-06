@@ -22,7 +22,7 @@ when the network doesn't.
 between **196 different currencies**:
 
 - 🌍 **166 fiat currencies** (ISO 4217)
-- ₿ **30 major cryptocurrencies**
+- 🪙 **30 major cryptocurrencies**
 
 Every rate is stored relative to a single base currency (**USD**), allowing
 **every possible conversion pair** to be calculated locally without additional
