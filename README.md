@@ -524,7 +524,7 @@ MIT
 
 <div align="center">
 
-**Built with Python ❤️**
+**Built with Python **
 
 *A reliable CLI currency converter that keeps working—even when the internet doesn't.*
 
