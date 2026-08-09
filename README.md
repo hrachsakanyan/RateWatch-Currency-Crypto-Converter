@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💱 RateWatch 
+# 💱 RateWatch  
 ### Currency & Crypto Converter with Smart Local Caching
 
 A robust command-line currency converter for **fiat currencies** and **cryptocurrencies**
