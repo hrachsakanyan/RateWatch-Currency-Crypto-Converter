@@ -245,7 +245,7 @@ Displays cache metadata without making network requests.
 
 ---
 
-## Batch
+## Batch 
 
 Convert multiple values from a file.
 
