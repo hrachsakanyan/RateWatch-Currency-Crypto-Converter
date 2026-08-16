@@ -109,7 +109,7 @@ No API key required.
 
 ---
 
-# ⚡ Quick Start
+# ⚡ Quick Start 
 
 ```bash
 python ratewatch.py refresh
