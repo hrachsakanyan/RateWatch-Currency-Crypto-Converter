@@ -16,7 +16,7 @@ when the network doesn't.
 
 ---
 
-## ✨ Overview
+## ✨ Overview 
 
 **RateWatch** is a professional command-line converter capable of converting
 between **196 different currencies**:
