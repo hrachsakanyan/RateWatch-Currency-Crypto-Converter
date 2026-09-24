@@ -378,7 +378,7 @@ Example:
 
 ---
 
-# 🌐 APIs Used
+# 🌐 APIs Used 
 
 | Data | Provider | API Key |
 |------|----------|----------|
